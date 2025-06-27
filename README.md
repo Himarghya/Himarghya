@@ -2,7 +2,7 @@
 <h3 align="center">A passionate FullStack developer from India</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himarghya" alt="himarghya" /></a> </p>
+<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=repositories,commits)"><img src="https://github-profile-trophy.vercel.app/?username=himarghya" alt="himarghya" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/himarghyad" target="blank"><img src="https://img.shields.io/twitter/follow/himarghyad?logo=twitter&style=for-the-badge" alt="himarghyad" /></a> </p>
 

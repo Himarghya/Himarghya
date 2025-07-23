@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Himarghya Das</h1>
+<h1 align="center">Hi 👋, Myself Himarghya Das</h1>
 <h3 align="center">A passionate FullStack developer from India who can handle both the front-end and back-end development of a website or web application also expert in Cyber Security
 </h3>
 

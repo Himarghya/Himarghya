@@ -2,7 +2,7 @@
 <h3 align="center">A passionate FullStack developer from India(🇮🇳) who can handle both the front-end and back-end development of a website 🌐 or web application also expert in 🪪 Cyber Security, 👉🏻😇👈🏻
 </h3>
 
- <span >![](https://komarev.com/ghpvc/?username=Himarghya&color=yellow)</span> 
+ ![](https://komarev.com/ghpvc/?username=Himarghya&color=yellow)
 <p align="center"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=repositories,commits&theme=flat)"><img src="https://github-profile-trophy.vercel.app/?username=himarghya&theme=aura" alt="himarghya" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/himarghyad" target="blank"><img src="https://img.shields.io/twitter/follow/himarghyad?logo=twitter&style=for-the-badge" alt="himarghyad" /></a> </p>

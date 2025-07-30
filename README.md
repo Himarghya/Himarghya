@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, Myself Himarghya Das</h1>
+![header](https://capsule-render.vercel.app/api?type=venom&text=Hello👋&fontAlign=50&FontColor=FFFFFF)
+<h1 align="center">  Myself Himarghya Das</h1>
 <h3 align="center">A passionate FullStack developer from India(🇮🇳) who can handle both the front-end and back-end development of a website 🌐 or web application also expert in 🪪 Cyber Security, 👉🏻😇👈🏻
 </h3>
 
- ![](https://komarev.com/ghpvc/?username=Himarghya&color=yellow)
+   ![](https://komarev.com/ghpvc/?username=Himarghya&color=yellow)
 <p align="center"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=repositories,commits&theme=flat)"><img src="https://github-profile-trophy.vercel.app/?username=himarghya&theme=aura" alt="himarghya" /></a> </p>
 <p align="center"> <a href="https://twitter.com/himarghyad" target="blank"><img src="https://img.shields.io/twitter/follow/himarghyad?logo=twitter&style=for-the-badge" alt="himarghyad" /></a> </p>
 <p align="center">- 📫 How to reach me </p><a href="himarghyadas@gmail.com"><p align="center">himarghyadas@gmail.com</p></a>

@@ -1,6 +1,6 @@
  ![header](https://capsule-render.vercel.app/api?type=venom&text=Hello👋&fontAlign=50&color=#FFFFFF)
 <h1 align="center">  Myself Himarghya Das</h1>
-<h3 align="center">A passionate FullStack developer from India(🇮🇳) who can handle both the front-end and back-end development of a website 🌐 or web application also expert in 🪪 Cyber Security, 👉🏻😇👈🏻
+<h3 align="center">A passionate FullStack developer from India(🇮🇳) who can handle both the front-end and back-end development of a website 🌐 or web application also  expert in 🪪 Cyber Security, 👉🏻😇👈🏻
 </h3>
 
    ![](https://komarev.com/ghpvc/?username=Himarghya&color=yellow)

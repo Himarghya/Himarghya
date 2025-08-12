@@ -7,7 +7,7 @@
 <p align="center"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=repositories,commits&theme=flat)"><img src="https://github-profile-trophy.vercel.app/?username=himarghya&theme=aura" alt="himarghya" /></a> </p>
 <p align="center"> <a href="https://twitter.com/himarghyad" target="blank"><img src="https://img.shields.io/twitter/follow/himarghyad?logo=twitter&style=for-the-badge" alt="himarghyad" /></a> </p>
 <p align="center">- 📫  Reach me through: <a href="himarghyadas@gmail.com">himarghyadas@gmail.com</a></p>
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3> 
 <p align="center">
 <a href="https://twitter.com/himarghyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himarghyad" height="30" width="40" /></a>
 </p>

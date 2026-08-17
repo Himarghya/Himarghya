@@ -1,148 +1,316 @@
 <div align="center">
 
-<!-- Animated typing header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Himarghya%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Builder%20of%20Things&descAlignY=58&descSize=18" width="100%"/>
+# 👋 Hey, I'm Himarghya
+
+### 💻 Full Stack Developer • C++ Programmer • Problem Solver
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;C%2B%2B+%7C+JavaScript+%7C+Node.js;DSA+%7C+Problem+Solving;Building+Real+World+Projects;Always+Learning+Something+New+%F0%9F%9A%80"/>
+
+<br><br>
 
 <a href="https://github.com/Himarghya">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;Open+Source+Enthusiast;Always+Learning+New+Tech;Turning+Ideas+Into+Code;&font=Fira+Code&center=true&width=520&height=50&color=58A6FF&vCenter=true&size=22&pause=1200&duration=3000" alt="Typing SVG" />
+<img src="https://img.shields.io/github/followers/Himarghya?style=for-the-badge&logo=github&label=Followers"/>
 </a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Himarghya&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/Himarghya?label=Followers&style=for-the-badge&color=blue" alt="followers"/>
+<a href="https://github.com/Himarghya?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View%20My%20Repos-blue?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
-<br/>
+---
 
-## 🧑‍💻 About Me
+# 👨‍💻 About Me
 
-```yaml
-name: Himarghya
-role: Full Stack Developer
-focus: Building clean, scalable, and performant web applications
-currently_learning: Advanced system design & cloud architecture
-fun_fact: I debug with console.log() and I'm not ashamed of it 😄
+Hi! I'm **Himarghya**, a developer who enjoys building applications,
+solving programming problems, and learning new technologies.
+
+* 🔭 Currently working on **Full Stack Development**
+* 🌱 Learning **JavaScript, Node.js, Express.js & Backend Development**
+* 💻 Practicing **Data Structures & Algorithms with C++**
+* 🚀 Building real-world projects to improve my development skills
+* 🤖 Exploring **AI/ML and modern technologies**
+* 🎯 Aspiring to become a strong **Software Engineer**
+* ⚡ I learn best by **building, breaking and debugging**
+
+> ### 💡 Learn → Build → Break → Debug → Improve → Repeat 🔁
+
+---
+
+# 🌐 Socials
+
+<div align="center">
+
+<a href="https://github.com/Himarghya">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_INSTAGRAM_URL">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="YOUR_X_URL">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🚀 Current Status
+
+<div align="center">
+
+|    🚀 Working On    |     📚 Learning     |       🎯 Focus       |
+| :-----------------: | :-----------------: | :------------------: |
+| Full Stack Projects | Advanced JavaScript |          DSA         |
+| Backend Development |  Node.js & Express  |    Problem Solving   |
+|  Personal Projects  |      Databases      | Software Engineering |
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,js,python,java,html,css"/>
+</p>
+
+### 🌐 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind"/>
+</p>
+
+### ⚙️ Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,ejs"/>
+</p>
+
+### 🗄️ Databases & Services
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase"/>
+</p>
+
+### 🔧 Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,npm,figma,postman"/>
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/Himarghya">
+<img src="https://img.shields.io/github/repos/Himarghya?style=for-the-badge&logo=github&label=Public%20Repositories"/>
+</a>
+
+<a href="https://github.com/Himarghya?tab=followers">
+<img src="https://img.shields.io/github/followers/Himarghya?style=for-the-badge&logo=github&label=Followers"/>
+</a>
+
+<a href="https://github.com/Himarghya?tab=stars">
+<img src="https://img.shields.io/github/stars/Himarghya?style=for-the-badge&logo=github&label=Stars"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Himarghya&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Himarghya&theme=github_dark" />
+
+</div>
+
+---
+
+# 🔥 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/Himarghya">
+
+<img src="https://img.shields.io/github/commit-activity/y/Himarghya?style=for-the-badge&logo=github&label=Commits%20This%20Year"/>
+
+</a>
+
+<a href="https://github.com/Himarghya">
+
+<img src="https://img.shields.io/github/commit-activity/m/Himarghya?style=for-the-badge&logo=github&label=Commits%20This%20Month"/>
+
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Himarghya">
+
+<img src="https://img.shields.io/github/created-at/Himarghya?style=for-the-badge&logo=github&label=GitHub%20Since"/>
+
+</a>
+
+<a href="https://github.com/Himarghya">
+
+<img src="https://img.shields.io/github/issues/Himarghya?style=for-the-badge&logo=github&label=Issues"/>
+
+</a>
+
+</div>
+
+---
+
+# 📈 My Contribution Graph
+
+<div align="center">
+
+### 🟩 My GitHub contribution activity is available directly on my profile
+
+<a href="https://github.com/Himarghya">
+
+<img src="https://img.shields.io/badge/View%20My%20Contribution%20Graph-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+<a href="https://github.com/Himarghya">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Himarghya&theme=github-compact&hide_border=true"/>
+
+</a>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/Himarghya?tab=achievements">
+
+<img src="https://img.shields.io/badge/🏆%20GitHub%20Achievements-View%20Profile-181717?style=for-the-badge"/>
+
+</a>
+
+</div>
+
+---
+
+# 📌 GitHub Profile
+
+<div align="center">
+
+<a href="https://github.com/Himarghya">
+
+<img src="https://img.shields.io/badge/GitHub-Himarghya-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://github.com/Himarghya?tab=repositories">
+
+<img src="https://img.shields.io/badge/Repositories-Explore%20Projects-0A66C2?style=for-the-badge&logo=github"/>
+
+</a>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Himarghya">
+<img src="https://img.shields.io/badge/🚀%20Explore%20My%20Projects-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+<br>
+
+<!-- Replace these with your actual repositories -->
+
+<div align="center">
+
+<a href="https://github.com/Himarghya">
+<img src="https://img.shields.io/badge/Project%201-View%20Repository-blue?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/Himarghya">
+<img src="https://img.shields.io/badge/Project%202-View%20Repository-blue?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 🧠 Currently Exploring
+
+<div align="center">
+
+```text
+                    🚀 SOFTWARE DEVELOPMENT
+                            │
+          ┌─────────────────┼─────────────────┐
+          │                 │                 │
+       🌐 WEB              🧠 DSA           🤖 AI/ML
+          │                 │                 │
+     ┌────┴────┐       C++ / STL          Python
+     │         │       Algorithms          ML
+  Frontend   Backend    Problem Solving    Deep Learning
+     │         │
+   React      Node.js
+   Next.js    Express.js
+   Tailwind   FastAPI
 ```
 
-- 🔭 I'm currently working on personal & open-source full-stack projects
-- 🌱 I'm always sharpening my skills across the MERN-adjacent stack
-- 👯 I'm open to collaborating on interesting web projects
-- 💬 Ask me about JavaScript, React, Node.js or backend architecture
-- ⚡ Fun fact: This README is more organized than my actual folder structure
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<details open>
-<summary><b>💻 Languages</b></summary>
-<br/>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,python,java,html,css&theme=dark" />
 </div>
-</details>
 
-<br/>
+---
 
-<details open>
-<summary><b>🎨 Frontend</b></summary>
-<br/>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind&theme=dark" />
-</div>
-</details>
-
-<br/>
-
-<details open>
-<summary><b>⚙️ Backend</b></summary>
-<br/>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,redis,vite&theme=dark" />
-</div>
-</details>
-
-<br/>
-
-<details open>
-<summary><b>🗄️ Databases</b></summary>
-<br/>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase&theme=dark" />
-</div>
-</details>
-
-<br/>
-
-<details open>
-<summary><b>🧰 Tools & Platforms</b></summary>
-<br/>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,npm,figma,postman&theme=dark" />
-</div>
-</details>
-
-<br/>
-
-## 📊 GitHub Analytics
+# ⚡ Coding Philosophy
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Himarghya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himarghya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+### 💻 Code. Learn. Build. Fail. Debug. Repeat.
 
-<br/>
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Himarghya&theme=tokyonight&hide_border=true" />
+### 🚀 Consistency beats perfection.
 
 </div>
 
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Himarghya&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-</div>
-
-<br/>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himarghya&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
-
-<br/>
-
-## 🤝 Connect With Me
+---
 
 <div align="center">
 
-<a href="https://linkedin.com/in/Himarghya" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:your.email@example.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://twitter.com/Himarghya" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://instagram.com/Himarghya" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+## ⭐ Thanks for visiting my profile!
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F5CFF&height=120&section=footer"/>
 
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/Himarghya">Himarghya</a> — Thanks for stopping by!</i>
-</div>
-

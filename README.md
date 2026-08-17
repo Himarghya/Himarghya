@@ -4,11 +4,17 @@
 
 ### 💻 Full Stack Developer • C++ Programmer • Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;C%2B%2B+%7C+JavaScript+%7C+Node.js;DSA+%7C+Problem+Solving;Building+Real+World+Projects;Always+Learning+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;C%2B%2B+%7C+JavaScript+%7C+Node.js;DSA+%7C+Problem+Solving;Building+Real+World+Projects;Always+Learning+Something+New+%F0%9F%9A%80"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Himarghya&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<a href="https://github.com/Himarghya">
+<img src="https://img.shields.io/github/followers/Himarghya?style=for-the-badge&logo=github&label=Followers"/>
+</a>
+
+<a href="https://github.com/Himarghya?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View%20My%20Repos-blue?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
@@ -16,18 +22,18 @@
 
 # 👨‍💻 About Me
 
-I'm **Himarghya**, a developer passionate about building applications,
-solving problems, and learning new technologies.
+Hi! I'm **Himarghya**, a developer who enjoys building applications,
+solving programming problems, and learning new technologies.
 
 * 🔭 Currently working on **Full Stack Development**
-* 🌱 Learning **Advanced JavaScript, Node.js, Backend Development & DSA**
-* 💻 Practicing **Data Structures & Algorithms using C++**
-* 🚀 Building real-world projects to strengthen my development skills
+* 🌱 Learning **JavaScript, Node.js, Express.js & Backend Development**
+* 💻 Practicing **Data Structures & Algorithms with C++**
+* 🚀 Building real-world projects to improve my development skills
 * 🤖 Exploring **AI/ML and modern technologies**
 * 🎯 Aspiring to become a strong **Software Engineer**
-* ⚡ I believe in learning by building
+* ⚡ I learn best by **building, breaking and debugging**
 
-> **Learn → Build → Break → Debug → Improve → Repeat 🔁**
+> ### 💡 Learn → Build → Break → Debug → Improve → Repeat 🔁
 
 ---
 
@@ -59,7 +65,7 @@ solving problems, and learning new technologies.
 
 ---
 
-# 🚀 Current GitHub Status
+# 🚀 Current Status
 
 <div align="center">
 
@@ -75,45 +81,35 @@ solving problems, and learning new technologies.
 
 # 🛠️ Tech Stack
 
-## 💻 Languages
+### 💻 Languages
 
-<div align="center">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,js,python,java,html,css"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=cpp,js,python,java,html,css" />
+### 🌐 Frontend
 
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind"/>
+</p>
 
-## 🌐 Frontend
+### ⚙️ Backend
 
-<div align="center">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,ejs"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" />
+### 🗄️ Databases & Services
 
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase"/>
+</p>
 
-## ⚙️ Backend
+### 🔧 Tools
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,ejs" />
-
-</div>
-
-## 🗄️ Databases & Services
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase" />
-
-</div>
-
-## 🔧 Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,npm,figma,postman" />
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,npm,figma,postman"/>
+</p>
 
 ---
 
@@ -122,70 +118,120 @@ solving problems, and learning new technologies.
 <div align="center">
 
 <a href="https://github.com/Himarghya">
-
-<img height="180"
-src="https://github-stats-extended.vercel.app/api?username=Himarghya&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12"/>
-
+<img src="https://img.shields.io/github/repos/Himarghya?style=for-the-badge&logo=github&label=Public%20Repositories"/>
 </a>
 
-<a href="https://github.com/Himarghya">
-
-<img height="180"
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=Himarghya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12"/>
-
+<a href="https://github.com/Himarghya?tab=followers">
+<img src="https://img.shields.io/github/followers/Himarghya?style=for-the-badge&logo=github&label=Followers"/>
 </a>
 
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<a href="https://github.com/Himarghya">
-
-<img src="https://streak-stats.demolab.com/?user=Himarghya&theme=tokyonight&hide_border=true&border_radius=12"/>
-
+<a href="https://github.com/Himarghya?tab=stars">
+<img src="https://img.shields.io/github/stars/Himarghya?style=for-the-badge&logo=github&label=Stars"/>
 </a>
 
 </div>
 
----
-
-# 📈 Contribution Graph
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Himarghya&bg_color=0D1117&color=58A6FF&line=00C2FF&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Himarghya&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Himarghya&theme=github_dark" />
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Himarghya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"/>
-
-</div>
-
----
-
-# 📌 My GitHub
+# 🔥 GitHub Activity
 
 <div align="center">
 
 <a href="https://github.com/Himarghya">
 
-<img src="https://img.shields.io/github/followers/Himarghya?label=Followers&style=for-the-badge&logo=github&color=181717"/>
+<img src="https://img.shields.io/github/commit-activity/y/Himarghya?style=for-the-badge&logo=github&label=Commits%20This%20Year"/>
+
+</a>
+
+<a href="https://github.com/Himarghya">
+
+<img src="https://img.shields.io/github/commit-activity/m/Himarghya?style=for-the-badge&logo=github&label=Commits%20This%20Month"/>
+
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Himarghya">
+
+<img src="https://img.shields.io/github/created-at/Himarghya?style=for-the-badge&logo=github&label=GitHub%20Since"/>
+
+</a>
+
+<a href="https://github.com/Himarghya">
+
+<img src="https://img.shields.io/github/issues/Himarghya?style=for-the-badge&logo=github&label=Issues"/>
+
+</a>
+
+</div>
+
+---
+
+# 📈 My Contribution Graph
+
+<div align="center">
+
+### 🟩 My GitHub contribution activity is available directly on my profile
+
+<a href="https://github.com/Himarghya">
+
+<img src="https://img.shields.io/badge/View%20My%20Contribution%20Graph-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+<a href="https://github.com/Himarghya">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Himarghya&theme=github-compact&hide_border=true"/>
+
+</a>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/Himarghya?tab=achievements">
+
+<img src="https://img.shields.io/badge/🏆%20GitHub%20Achievements-View%20Profile-181717?style=for-the-badge"/>
+
+</a>
+
+</div>
+
+---
+
+# 📌 GitHub Profile
+
+<div align="center">
+
+<a href="https://github.com/Himarghya">
+
+<img src="https://img.shields.io/badge/GitHub-Himarghya-181717?style=for-the-badge&logo=github"/>
 
 </a>
 
 <a href="https://github.com/Himarghya?tab=repositories">
 
-<img src="https://img.shields.io/github/stars/Himarghya?affiliations=OWNER&style=for-the-badge&logo=github&label=Repository%20Stars&color=yellow"/>
+<img src="https://img.shields.io/badge/Repositories-Explore%20Projects-0A66C2?style=for-the-badge&logo=github"/>
 
 </a>
 
@@ -198,11 +244,23 @@ src="https://github-stats-extended.vercel.app/api/top-langs/?username=Himarghya&
 <div align="center">
 
 <a href="https://github.com/Himarghya">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Himarghya&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/🚀%20Explore%20My%20Projects-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+<br>
+
+<!-- Replace these with your actual repositories -->
+
+<div align="center">
+
+<a href="https://github.com/Himarghya">
+<img src="https://img.shields.io/badge/Project%201-View%20Repository-blue?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://github.com/Himarghya">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Himarghya&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/Project%202-View%20Repository-blue?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
@@ -214,19 +272,19 @@ src="https://github-stats-extended.vercel.app/api/top-langs/?username=Himarghya&
 <div align="center">
 
 ```text
-                 🚀 SOFTWARE DEVELOPMENT
-                         │
-        ┌────────────────┼────────────────┐
-        │                │                │
-     🌐 WEB            🧠 DSA          🤖 AI/ML
-        │                │                │
-   ┌────┴────┐       C++ & STL       Python
-   │         │       Algorithms       ML
-Frontend   Backend    Problem Solving  Deep Learning
-   │         │
-React      Node.js
-Next.js    Express
-Tailwind   FastAPI
+                    🚀 SOFTWARE DEVELOPMENT
+                            │
+          ┌─────────────────┼─────────────────┐
+          │                 │                 │
+       🌐 WEB              🧠 DSA           🤖 AI/ML
+          │                 │                 │
+     ┌────┴────┐       C++ / STL          Python
+     │         │       Algorithms          ML
+  Frontend   Backend    Problem Solving    Deep Learning
+     │         │
+   React      Node.js
+   Next.js    Express.js
+   Tailwind   FastAPI
 ```
 
 </div>
@@ -237,11 +295,11 @@ Tailwind   FastAPI
 
 <div align="center">
 
-### 💡 Code. Learn. Build. Fail. Debug. Repeat.
+### 💻 Code. Learn. Build. Fail. Debug. Repeat.
 
 <br>
 
-**"Consistency beats perfection."**
+### 🚀 Consistency beats perfection.
 
 </div>
 

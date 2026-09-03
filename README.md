@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;C%2B%2B+%7C+JavaScript+%7C+Node.js;DSA+%7C+Problem+Solving;Building+Real+World+Projects;Always+Learning+Something+New+%F0%9F%9A%80"/>
 
-<br><br>
+<br><br> 
 
 <a href="https://github.com/Himarghya">
 <img src="https://img.shields.io/github/followers/Himarghya?style=for-the-badge&logo=github&label=Followers"/>

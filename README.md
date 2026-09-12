@@ -67,11 +67,7 @@ Hi! I'm a developer focused on engineering robust web applications and solving c
 
 <br><br>
 
-**🟩 Contribution Graph**
-<br>
-<a href="https://github.com/Himarghya">
-  <img src="https://ghchart.rshah.org/Himarghya" alt="Himarghya's GitHub Contribution Graph" width="80%"/>
-</a>
+
 
 </div>
 

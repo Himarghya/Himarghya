@@ -148,12 +148,38 @@ I am a software engineer passionate about building high-throughput backend servi
 
 <hr/>
 
-### 📊 GitHub Activity & Streak
+### 📊 GitHub Activity & Engineering Telemetry
 
 <div align="center">
+  <!-- Live Profile Views Counter & Dynamic Status Badges -->
+  <img src="https://komarev.com/ghpvc/?username=Himarghya&label=PROFILE%20VIEWS%20👁️&color=00C2FF&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/DAILY%20STREAK-ACTIVE%20🔥-7F5CFF?style=for-the-badge&labelColor=0d1117" alt="Streak Badge"/>
+  <img src="https://img.shields.io/badge/COMMIT%20VELOCITY-HIGH%20⚡-E50914?style=for-the-badge&labelColor=0d1117" alt="Velocity Badge"/>
+  
+  <br><br>
+
+  <!-- Live Dynamic Streak & Contribution Card -->
   <a href="https://github.com/Himarghya" target="_blank">
-    <img src="https://streak-stats.demolab.com/?user=Himarghya&theme=tokyonight&hide_border=true&background=0d1117&ring=00C2FF&fire=7F5CFF&currStreakLabel=00C2FF" alt="GitHub Streak" width="70%"/>
+    <img src="https://streak-stats.demolab.com/?user=Himarghya&theme=tokyonight&hide_border=true&background=0d1117&ring=00C2FF&fire=7F5CFF&currStreakLabel=00C2FF" alt="GitHub Streak" width="75%"/>
   </a>
+
+  <br><br>
+
+  <!-- High-Density Engineering Metrics & System Summary -->
+  <table width="85%">
+    <tr>
+      <td width="50%" align="left">
+        <b>🔥 Total Annual Contributions:</b> <code>660+ Commits</code><br>
+        <b>⚡ Core Development Engine:</b> <code>C++20</code> • <code>TypeScript</code> • <code>FastAPI</code><br>
+        <b>🛡️ Spatial Ingestion Indexing:</b> <code>PostGIS (4.2M+ Points)</code>
+      </td>
+      <td width="50%" align="left">
+        <b>🚀 Systems in Production:</b> <code>6 Featured Architectures</code><br>
+        <b>🔄 Queue Throughput Benchmark:</b> <code>12k Tasks / Min (PulseMesh)</code><br>
+        <b>📡 Offline GIS Reliability:</b> <code>100% Client-Side Sync</code>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <hr/>

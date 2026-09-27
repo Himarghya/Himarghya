@@ -1,1 +1,176 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:4D77FF,100:7F5CFF&height=200&section=header&text=Himarghya&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20C%2B%2B%20Programmer%20%E2%80%A2%20Problem%20Solver&descAlignY=58&descFontSize=20" width="100%"/><a href="https://portfolio-3k34.onrender.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Full+Stack+Applications;C%2B%2B+%7C+Modern+JavaScript+%7C+Node.js;Competitive+Programming+%26+DSA;Crafting+Exceptional+Web+Experiences+%F0%9F%9A%80" alt="Typing SVG"/></a><br><br><a href="https://portfolio-3k34.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-Explore_Work-7F5CFF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio"/></a> <a href="https://github.com/Himarghya?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/📂_My_Repositories-Browse-00C2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repositories"/></a> <a href="https://github.com/Himarghya?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/Himarghya?style=for-the-badge&logo=github&label=Followers&color=00C2FF&labelColor=0d1117" alt="Followers"/></a></div><hr/><h3>👨‍💻 About Me</h3><p>I am a software developer passionate about building high-performance, scalable web systems and solving complex computational problems. I believe the best way to master technology is through <b>rapid prototyping, deep debugging, and continuous refinement</b>.</p><ul><li>🔭 <b>Currently Crafting:</b> Full-stack production-ready applications with modern UI/UX and resilient backends.</li><li>💡 <b>Algorithmic Edge:</b> Actively sharpening problem-solving speed with <b>C++ & Advanced Data Structures</b>.</li><li>⚙️ <b>Architecture:</b> Exploring microservices, Redis caching, cloud integrations, and clean code patterns.</li><li>🎯 <b>Portfolio:</b> <a href="https://portfolio-3k34.onrender.com/">portfolio-3k34.onrender.com</a></li></ul><blockquote><b>💡 Learn ➔ Build ➔ Break ➔ Debug ➔ Repeat 🔁</b></blockquote><hr/><h3>🛠️ Tech Stack</h3><div align="center"><table><tr><td><b>Languages & Core</b></td><td><img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python,html,css"/></td></tr><tr><td><b>Frontend & Backend</b></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express,nestjs"/></td></tr><tr><td><b>Databases & Cloud</b></td><td><img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,firebase,git,docker,postman"/></td></tr></table></div><hr/><h3>🚀 Featured Projects</h3><div align="center"><table><tr><td width="50%" valign="top"><h3 align="center">🌟 Mesh Minds</h3><p align="center"><b>Modern Collaborative Blogging & Content Platform</b><br><br><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/><br><br>A full-featured blogging application supporting markdown editing, reader engagement, real-time analytics, and SEO optimization.<br><br><a href="https://github.com/Himarghya"><img src="https://img.shields.io/badge/View_Source-00C2FF?style=for-the-badge&logo=github&logoColor=white"/></a></p></td><td width="50%" valign="top"><h3 align="center">⚡ VARSHANET 2.0</h3><p align="center"><b>Intelligent Weather Analytics & Forecast Engine</b><br><br><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/API-FF5722?style=flat-square&logo=fastapi&logoColor=white"/><br><br>Interactive real-time weather tracking dashboard featuring dynamic charting, geo-location climate telemetry, and forecast predictions.<br><br><a href="https://github.com/Himarghya"><img src="https://img.shields.io/badge/View_Source-7F5CFF?style=for-the-badge&logo=github&logoColor=white"/></a></p></td></tr></table></div><hr/><h3>📊 GitHub Statistics</h3><div align="center"><a href="https://github.com/Himarghya"><img src="https://github-readme-stats.vercel.app/api?username=Himarghya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C2FF&icon_color=7F5CFF&text_color=c9d1d9" width="48.5%" alt="GitHub Stats"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himarghya&theme=tokyonight&hide_border=true&background=0d1117&ring=00C2FF&fire=7F5CFF&currStreakLabel=00C2FF" width="48.5%" alt="GitHub Streak"/></a><br><br><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Himarghya&theme=github_dark" width="98%" alt="Languages Chart"/></div><hr/><h3>🌐 Connect With Me</h3><div align="center"><a href="https://portfolio-3k34.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Live_Portfolio-00C2FF?style=for-the-badge&logo=render&logoColor=white&labelColor=181717" alt="Portfolio"/></a> <a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=181717" alt="LinkedIn"/></a> <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=181717" alt="Email"/></a><br><br><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:4D77FF,100:7F5CFF&height=120&section=footer" width="100%"/></div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:4D77FF,100:7F5CFF&height=200&section=header&text=Himarghya&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20C%2B%2B%20Programmer%20%E2%80%A2%20Systems%20Builder&descAlignY=58&descFontSize=20" width="100%"/>
+  
+  <a href="https://portfolio-3k34.onrender.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Full+Stack+Applications;C%2B%2B+%7C+PostgreSQL+%7C+TypeScript+%7C+FastAPI;Distributed+Queues+%26+Geospatial+GIS;Crafting+High-Performance+Web+Systems+%F0%9F%9A%80" alt="Typing SVG"/>
+  </a>
+  
+  <br><br>
+  
+  <a href="https://portfolio-3k34.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-Explore_Work-7F5CFF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio"/></a>
+  <a href="https://himarghya-blog.onrender.com" target="_blank"><img src="https://img.shields.io/badge/📝_Engineering_Blog-Read_Articles-E50914?style=for-the-badge&logo=rss&logoColor=white&labelColor=0d1117" alt="Blog"/></a>
+  <a href="https://github.com/Himarghya?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/📂_My_Repositories-Browse-00C2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repositories"/></a>
+  <a href="https://github.com/Himarghya?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/Himarghya?style=for-the-badge&logo=github&label=Followers&color=00C2FF&labelColor=0d1117" alt="Followers"/></a>
+</div>
+
+<hr/>
+
+### 👨‍💻 About Me
+
+I am a software engineer passionate about building high-throughput backend services, distributed systems, and responsive web applications. I specialize in backend microservices in Python & C++, spatial database optimization in PostgreSQL/PostGIS, and modern interfaces with React and TypeScript.
+
+- 🔭 **Currently Building:** High-concurrency distributed job queues, GIS telemetry pipelines, and scalable web platforms.
+- 💡 **Algorithmic Edge:** Actively sharpening problem-solving with **C++20, STL, and Advanced Data Structures**.
+- ⚙️ **Core Focus:** PostGIS spatial indexing, Redis caching, microservices, and offline-first architectures.
+- 🎯 **Interactive Portfolio:** [portfolio-3k34.onrender.com](https://portfolio-3k34.onrender.com/)
+- 📖 **Technical Blog:** [himarghya-blog.onrender.com](https://himarghya-blog.onrender.com/)
+
+> **💡 Learn ➔ Build ➔ Break ➔ Debug ➔ Repeat 🔁**
+
+<hr/>
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <table>
+    <tr>
+      <td><b>Languages & Core</b></td>
+      <td><img src="https://skillicons.dev/icons?i=cpp,c,ts,js,python,html,css"/></td>
+    </tr>
+    <tr>
+      <td><b>Frameworks & Runtimes</b></td>
+      <td><img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,express,tailwind,bootstrap"/></td>
+    </tr>
+    <tr>
+      <td><b>Databases & Cloud</b></td>
+      <td><img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,firebase,docker,git,postman"/></td>
+    </tr>
+  </table>
+</div>
+
+<hr/>
+
+### 🚀 Featured Systems & Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <!-- Project 1: VarshaNet 2.0 -->
+      <td width="50%" valign="top">
+        <h3 align="center">⚡ VARSHANET 2.0</h3>
+        <p align="center"><b>Geospatial Weather Radar & Disaster Telemetry Pipeline</b><br><br>
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+          <br><br>
+          An end-to-end meteorological system indexing 4.2M+ geographic coordinates. Generates real-time precipitation contour overlays and sub-50ms spatial polygon queries.
+          <br><br>
+          <a href="https://github.com/Himarghya/SIH-26069-VARSHANET-Team_TechTonic" target="_blank"><img src="https://img.shields.io/badge/View_Source-00C2FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+        </p>
+      </td>
+      <!-- Project 2: PulseMesh -->
+      <td width="50%" valign="top">
+        <h3 align="center">🔄 PulseMesh</h3>
+        <p align="center"><b>Distributed Task Queue & Workflow Orchestration Engine</b><br><br>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/SSE-FF6B6B?style=flat-square"/>
+          <br><br>
+          A distributed job scheduler with atomic task leases, automated worker heartbeat failover within 5s, dead-letter recovery queues, and live SSE telemetry streaming.
+          <br><br>
+          <a href="https://github.com/Himarghya/PulseMesh" target="_blank"><img src="https://img.shields.io/badge/View_Source-7F5CFF?style=for-the-badge&logo=github&logoColor=white"/></a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <!-- Project 3: Polaris -->
+      <td width="50%" valign="top">
+        <h3 align="center">❄️ Polaris Arctic Logistics</h3>
+        <p align="center"><b>Offline Cold-Chain Expedition Management Platform</b><br><br>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+          <img src="https://img.shields.io/badge/IndexedDB-4285F4?style=flat-square"/>
+          <br><br>
+          An expedition resource optimizer featuring 100% offline functionality via IndexedDB, terrain elevation path solvers, and automated satellite sync queues.
+          <br><br>
+          <a href="https://github.com/Himarghya/SIH26062" target="_blank"><img src="https://img.shields.io/badge/View_Source-00C2FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+        </p>
+      </td>
+      <!-- Project 4: CampusOS -->
+      <td width="50%" valign="top">
+        <h3 align="center">🏛️ CampusOS</h3>
+        <p align="center"><b>Smart Campus Management & Monorepo Enterprise System</b><br><br>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+          <br><br>
+          A full-stack monorepo unifying course scheduling, academic attendance algorithms, and JWT role-based access control (RBAC) across student & faculty portals.
+          <br><br>
+          <a href="https://github.com/Himarghya/CampusOS" target="_blank"><img src="https://img.shields.io/badge/View_Source-7F5CFF?style=for-the-badge&logo=github&logoColor=white"/></a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <!-- Project 5: Mesh Minds -->
+      <td width="50%" valign="top">
+        <h3 align="center">🌟 Mesh Minds</h3>
+        <p align="center"><b>Collaborative Content Platform & Publication Engine</b><br><br>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+          <br><br>
+          A full-featured collaborative publishing platform supporting markdown authoring, reader interaction, real-time analytics, and SEO optimizations.
+          <br><br>
+          <a href="https://github.com/Himarghya" target="_blank"><img src="https://img.shields.io/badge/View_Source-00C2FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+        </p>
+      </td>
+      <!-- Project 6: Technical Blog -->
+      <td width="50%" valign="top">
+        <h3 align="center">📝 Himarghya Engineering Blog</h3>
+        <p align="center"><b>Deep-Dive Technical Articles & Systems Engineering Journal</b><br><br>
+          <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
+          <br><br>
+          Production engineering publication platform covering C++ move semantics, Redis queue architectures, and PostgreSQL indexing strategies.
+          <br><br>
+          <a href="https://himarghya-blog.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Live_Site-E50914?style=for-the-badge&logo=render&logoColor=white"/></a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<hr/>
+
+### 📊 GitHub Statistics & Activity
+
+<div align="center">
+  <a href="https://github.com/Himarghya">
+    <img src="https://github-readme-stats.vercel.app/api?username=Himarghya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C2FF&icon_color=7F5CFF&text_color=c9d1d9" alt="GitHub Stats" width="48.5%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himarghya&theme=tokyonight&hide_border=true&background=0d1117&ring=00C2FF&fire=7F5CFF&currStreakLabel=00C2FF" alt="GitHub Streak" width="48.5%"/>
+  </a>
+  <br><br>
+  <a href="https://github.com/Himarghya">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himarghya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C2FF&text_color=c9d1d9" alt="Top Languages" width="48.5%"/>
+  </a>
+</div>
+
+<hr/>
+
+### 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://portfolio-3k34.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Live_Portfolio-00C2FF?style=for-the-badge&logo=render&logoColor=white&labelColor=181717" alt="Portfolio"/></a>
+  <a href="https://himarghya-blog.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Technical_Blog-E50914?style=for-the-badge&logo=rss&logoColor=white&labelColor=181717" alt="Blog"/></a>
+  <a href="https://linkedin.com/in/himarghya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=181717" alt="LinkedIn"/></a>
+  <a href="mailto:himarghyadas@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=181717" alt="Email"/></a>
+  
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:4D77FF,100:7F5CFF&height=120&section=footer" width="100%"/>
+</div>

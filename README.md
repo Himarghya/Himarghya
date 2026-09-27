@@ -148,16 +148,11 @@ I am a software engineer passionate about building high-throughput backend servi
 
 <hr/>
 
-### 📊 GitHub Statistics & Activity
+### 📊 GitHub Activity & Streak
 
 <div align="center">
-  <a href="https://github.com/Himarghya">
-    <img src="https://github-readme-stats.vercel.app/api?username=Himarghya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C2FF&icon_color=7F5CFF&text_color=c9d1d9" alt="GitHub Stats" width="48.5%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himarghya&theme=tokyonight&hide_border=true&background=0d1117&ring=00C2FF&fire=7F5CFF&currStreakLabel=00C2FF" alt="GitHub Streak" width="48.5%"/>
-  </a>
-  <br><br>
-  <a href="https://github.com/Himarghya">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himarghya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C2FF&text_color=c9d1d9" alt="Top Languages" width="48.5%"/>
+  <a href="https://github.com/Himarghya" target="_blank">
+    <img src="https://streak-stats.demolab.com/?user=Himarghya&theme=tokyonight&hide_border=true&background=0d1117&ring=00C2FF&fire=7F5CFF&currStreakLabel=00C2FF" alt="GitHub Streak" width="70%"/>
   </a>
 </div>
 

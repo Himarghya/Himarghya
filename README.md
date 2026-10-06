@@ -1,4 +1,4 @@
-<div align="center">  
+<div align="center">   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:4D77FF,100:7F5CFF&height=200&section=header&text=Himarghya&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20C%2B%2B%20Programmer%20%E2%80%A2%20Systems%20Builder&descAlignY=58&descFontSize=20" width="100%"/>
   
   <a href="https://portfolio-3k34.onrender.com/"> 

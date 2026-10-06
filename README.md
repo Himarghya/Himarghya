@@ -1,5 +1,5 @@
  <div align="center">     
-  <img src="https://capsule-render.vercel.app/api?   type=waving&color=0:00C2FF,50:4D77FF,100:7F5CFF&height=200&section=header&text=Himarghya&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20C%2B%2B%20Programmer%20%E2%80%A2%20Systems%20Builder&descAlignY=58&descFontSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?    type=waving&color=0:00C2FF,50:4D77FF,100:7F5CFF&height=200&section=header&text=Himarghya&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20C%2B%2B%20Programmer%20%E2%80%A2%20Systems%20Builder&descAlignY=58&descFontSize=20" width="100%"/>
   
   <a href="https://portfolio-3k34.onrender.com/"> 
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Full+Stack+Applications;C%2B%2B+%7C+PostgreSQL+%7C+TypeScript+%7C+FastAPI;Distributed+Queues+%26+Geospatial+GIS;Crafting+High-Performance+Web+Systems+%F0%9F%9A%80" alt="Typing SVG"/>

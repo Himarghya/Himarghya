@@ -8,7 +8,7 @@
   <br><br>
   
   <a href="https://portfolio-3k34.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-Explore_Work-7F5CFF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio"/></a>
-  <a href="https://himarghya-blog.onrender.com" target="_blank"><img src="https://img.shields.io/badge/📝_Engineering_Blog-Read_Articles-E50914?style=for-the-badge&logo=rss&logoColor=white&labelColor=0d1117" alt="Blog"/></a>
+  <a href="https://himarghya-blog.onrender.com" target="_blank"><img src="https://img.shields.io/badge/📝_Engineering_Blog-Read_Articles-E50914?style=for-the-badge&logo=rss&logoColor=white&labelColor=0d1117" alt="Blog"/></a> 
   <a href="https://github.com/Himarghya?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/📂_My_Repositories-Browse-00C2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repositories"/></a>
   <a href="https://github.com/Himarghya?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/Himarghya?style=for-the-badge&logo=github&label=Followers&color=00C2FF&labelColor=0d1117" alt="Followers"/></a>
 </div>

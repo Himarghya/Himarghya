@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Full+Stack+Applications;C%2B%2B+%7C+PostgreSQL+%7C+TypeScript+%7C+FastAPI;Distributed+Queues+%26+Geospatial+GIS;Crafting+High-Performance+Web+Systems+%F0%9F%9A%80" alt="Typing SVG"/>
   </a>
   
-  <br><br>
+  <br> <br>
   
   <a href="https://portfolio-3k34.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-Explore_Work-7F5CFF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio"/></a>
   <a href="https://himarghya-blog.onrender.com" target="_blank"><img src="https://img.shields.io/badge/📝_Engineering_Blog-Read_Articles-E50914?style=for-the-badge&logo=rss&logoColor=white&labelColor=0d1117" alt="Blog"/></a> 
